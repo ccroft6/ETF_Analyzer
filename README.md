@@ -58,7 +58,7 @@ The following steps were taken for this analysis:
 ## Web Application via Voilà
 In order to deploy the jupyter notebook as a web application, I typed the following code into my terminal:
 
-`voila eft_analyzer.ipynb`
+`voila etf_analyzer.ipynb`
 
 The web application appeared as follows:
 ![Voilà web application](voila_web_application.mov)
