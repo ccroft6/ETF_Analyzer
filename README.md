@@ -64,14 +64,14 @@ Here is a video of how the web application appeared (click on the link to see th
 ![Voilà web application](voila_web_application_1.mov)
 
 Here is a photo of the web application running in the browser:
-![Web application](web_app.png)
+![Web application](./Screenshots/web_app.png)
 
 Here are photos of the graphs shown on the web application:
-![PYPL Daily Returns](daily_returns_pypl.png)
+![PYPL Daily Returns](./Screenshots/daily_returns_pypl.png)
 
-![PYPL Cumulative Returns](cumulative_returns_pypl.png)
+![PYPL Cumulative Returns](./Screenshots/cumulative_returns_pypl.png)
 
-![ETF Portfolio Cumulative Returns](cumulative_returns_portfolio.png)
+![ETF Portfolio Cumulative Returns](./Screenshots/cumulative_returns_portfolio.png)
 
 ---
 
