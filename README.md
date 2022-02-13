@@ -36,6 +36,7 @@ conda list voila
 To interact with the analysis of the hypothetical fintech ETF:
 1. Clone the repository 
 `git clone https://github.com/ccroft6/ETF_Analyzer.git`
+
 2. Open terminal at this repository location. Activate the environment and launch jupyter lab:
 
 ```
@@ -60,10 +61,12 @@ In order to deploy the jupyter notebook as a web application, I typed the follow
 
 `voila etf_analyzer.ipynb`
 
-Here is a photo of the web application running in the browser:
+**Here is a photo of the web application running in the browser:**
+
 ![Web application](./Screenshots/web_app.png)
 
-Here are photos of the graphs shown on the web application:
+**Here are photos of the graphs shown on the web application:**
+
 ![PYPL Daily Returns](./Screenshots/daily_returns_pypl.png)
 
 ![PYPL Cumulative Returns](./Screenshots/cumulative_returns_pypl.png)
