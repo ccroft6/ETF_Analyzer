@@ -60,9 +60,6 @@ In order to deploy the jupyter notebook as a web application, I typed the follow
 
 `voila etf_analyzer.ipynb`
 
-Here is a video of how the web application appeared (click on the link to see the raw video file):
-![Voilà web application](voila_web_application_1.mov)
-
 Here is a photo of the web application running in the browser:
 ![Web application](./Screenshots/web_app.png)
 
