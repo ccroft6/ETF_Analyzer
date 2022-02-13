@@ -60,8 +60,18 @@ In order to deploy the jupyter notebook as a web application, I typed the follow
 
 `voila etf_analyzer.ipynb`
 
-The web application appeared as follows:
+Here is a video of how the web application appeared (click on the link to see the raw video file):
 ![Voilà web application](voila_web_application_1.mov)
+
+Here is a photo of the web application running in the browser:
+![Web application](web_app.png)
+
+Here are photos of the graphs shown on the web application:
+![PYPL Daily Returns](daily_returns_pypl.png)
+
+![PYPL Cumulative Returns](cumulative_returns_pypl.png)
+
+![ETF Portfolio Cumulative Returns](cumulative_returns_portfolio.png)
 
 ---
 
